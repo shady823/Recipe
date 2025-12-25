@@ -1,11 +1,11 @@
-Recipe App 🍽️
+## Recipe App 🍽️
 
-Author: Shady Emad
-
+## Author: Shady Emad
+## About
 A dynamic recipe app built with React, where users can explore meals, view details, and discover ingredients using TheMealDB API
 . This project demonstrates fetching API data, interactive UI design, and responsive frontend development.
 
-Features
+## Features
 
 ✅ Browse meals by category (beef, breakfast, etc.)
 

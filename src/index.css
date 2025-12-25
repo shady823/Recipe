@@ -1,0 +1,41 @@
+@import "tailwindcss";
+@plugin './hero.js';
+@source '../node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}';
+@custom-variant dark (&:is(.dark *));
+
+/*Home header*/
+.homeHeader {
+  font-family: Pacifico, cursive;
+  font-weight: 700;
+  font-size: 36px;
+  background: linear-gradient(to right, #f37f2c, red); /* orange to red */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; /* for Safari */
+  color: transparent;
+}
+
+/*___________________________________________________*/
+/*Recipe Detail header*/
+.foodName {
+  font-family: Pacifico, cursive;
+  font-weight: 600;
+
+  font-size: 48px;
+}
+/*___________________________________________________*/
+/*Buttons styling*/
+.youtube {
+  background-color: red;
+  color: white;
+}
+.source {
+  color: white;
+}
+/*___________________________________________________*/
+/*home button*/
+.home_button {
+  font-family: cursive;
+}
+* {
+  font-family: cursive;
+}

@@ -19,7 +19,7 @@ A dynamic recipe app built with React, where users can explore meals, view detai
 
 📱 Responsive UI powered by HeroUI
 
-Technologies Used
+## Technologies Used
 
 React.js – Component-based frontend framework
 
